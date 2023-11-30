@@ -30,4 +30,4 @@ Metaheuristic algorithms play a crucial role in optimizing complex problems, and
     7)Differential Evolution (DE):
         Application: Function optimization, parameter tuning.
         Explanation: DE is a population-based optimization algorithm that is particularly useful for continuous function optimization. In machine learning, it can be applied to tune the parameters of a model or optimize the performance of a learning algorithm.
-Applications of Metaheuristics algorithms  in machine learning and data science projects (Including hyperparameter optimization and feature selection)) in this repository have presented.
+Applications of Metaheuristics algorithms  in machine learning and data science projects (Including hyperparameter optimization and feature selection)) have presented in this repository.
