@@ -13,11 +13,10 @@ Metaheuristic algorithms play a vital role in optimizing complex problems, and t
 
     3)Ant Colony Optimization (ACO):
         Application: Routing problems, feature selection.
-        Explanation: ACO is inspired by the foraging behavior of ants. In machine learning, it can be applied to optimization problems such as feature selection and routing problems, where the goal is to find the optimal path through a graph.
+        Explanation: ACO is inspired by the foraging behavior of ants. Machine learning can be applied to optimization problems such as feature selection and routing problems, where the goal is to find the optimal path through a graph.
 
-    4)Simulated Annealing:
-        Application: Training neural networks, and optimization of complex functions.
-        Explanation: Simulated Annealing is inspired by the annealing process in metallurgy. In machine learning, it can be used to optimize complex functions, such as training neural networks. It helps in escaping local optima by allowing the algorithm to accept worse solutions with a decreasing probability over time.
+    4)Grey Wolf Optimization:
+        Grey Wolf Optimization has been applied to solve various optimization problems, including engineering design, parameter optimization, and feature selection. Like other metaheuristic algorithms, its effectiveness depends on the problem at hand and the tuning of algorithmic parameters.
 
     5)Tabu Search:
         Application: Combinatorial optimization, feature selection.
