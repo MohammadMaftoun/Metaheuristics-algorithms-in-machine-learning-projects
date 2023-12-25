@@ -15,7 +15,7 @@ Metaheuristic algorithms play a vital role in optimizing complex problems, and t
         Application: Routing problems, feature selection.
         Explanation: ACO is inspired by the foraging behavior of ants. Machine learning can be applied to optimization problems such as feature selection and routing problems, where the goal is to find the optimal path through a graph.
 
-    4)Grey Wolf Optimization:
+    4)Grey Wolf Optimization (GWO):
         Grey Wolf Optimization has been applied to solve various optimization problems, including engineering design, parameter optimization, and feature selection. Like other metaheuristic algorithms, its effectiveness depends on the problem at hand and the tuning of algorithmic parameters.
 
     5)Tabu Search:
