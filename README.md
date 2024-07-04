@@ -1,7 +1,9 @@
 # Metaheuristics-algorithms-application-in-machine-learning-projects
 ![MHA](https://s30.picofile.com/file/8469736792/ml_e1610553826718.jpg)
 
-Metaheuristic algorithms play an essential role in optimizing complex problems, and their applications extend to various domains, including machine learning projects. Here are some typical metaheuristic algorithms and their applications in machine learning:
+Metaheuristic algorithms play an essential role in optimizing complex problems, and their applications extend to various domains, including machine learning projects. Metaheuristic algorithms are the optimization algorithms we would like to emphasize in this work. Metaheuristics algorithms can be defined as mathematical frameworks with advanced searching mechanisms in the solution space. The advanced searching mechanisms of metaheuristic algorithms consist of the exploration and exploitation steps which involve specific operators that help the orientation of the optimization process towards regions of interest within the search space. 
+
+Here are some typical metaheuristic algorithms and their applications in machine learning:
 
     1)Genetic Algorithms (GA):
         Application: Feature selection, neural network training, hyperparameter tuning.
